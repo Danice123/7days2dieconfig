@@ -3585,30 +3585,6 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 </recipe>
 
 		<!-- Classes Mod -->
-	<recipe name="Class - Hunter (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Builder (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-  </recipe>
-	<recipe name="Class - Veteran (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Bruiser (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Gunman (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Miner (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Survivor (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
-	<recipe name="Class - Medic (Locked)" count="1" >
-  <ingredient name="classSelection" count="1" />
-	</recipe>
 	<recipe name="Class - Wildcard (Locked)" count="1">
   <ingredient name="classSelection" count="1" />
 	</recipe>
